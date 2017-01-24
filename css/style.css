@@ -1,0 +1,302 @@
+
+.top {
+	background-color:white;
+	width: 100%;
+	height:87px;
+	float: left;
+	z-index: 0;
+	clear: both;
+	border: #dddddd;
+	
+
+}
+.nav {
+
+}
+.name {
+	background-color: #4aaaa5;
+	font-family: 'georgia', times, times new roman, serif;
+	float:left;
+	color:white;
+	font-size: 20px;
+	padding: 30px 90% 30px 50%;
+	position: static;
+	text-align: center;
+}
+.about-tab {
+	text-decoration: none;
+	padding: 33px 10px 32px 10px;
+	position:relative;
+	float:right 33.3%;
+	color: black;
+	border-top:4px solid transparent;
+	font-size:20px;
+}
+
+.portfolio-tab 
+{text-decoration: none;
+	padding: 33px 10px 32px 10px;
+	position:relative;
+	float:right 33.3%;
+	color: black;
+	border-top:4px solid transparent;
+	font-size:20px;
+}
+
+.contact-tab{
+	text-decoration: none;
+	padding: 33px 10px 32px 10px;
+	position:relative;
+	float:right 33.3%;
+	color: black;
+	border-top:4px solid transparent;
+	font-size:20px;
+}
+
+.about-tab:hover{opacity:.7;
+position: relative;
+border-top: 3px solid #3ffce0;
+}
+
+.portfolio-tab:hover {
+	opacity:.7;
+position: relative;
+border-top: 3px solid #3ffce0;
+}
+
+.contact-tab:hover{
+opacity:.7;
+position: relative;
+border-top: 3px solid #3ffce0;
+}
+
+.topborderbar{
+	background: #666666;
+	width:100%;
+	height:1px;
+	float:left;
+	clear:both;
+}
+.middle {
+	background-color:#dddddd;
+	width:100%;
+	height: auto;
+	float:left;
+	padding-bottom: 50px;
+	clear:both;
+}
+.container {
+	width:960px;
+	margin:auto;
+}
+
+.about-me-box{
+	background-color: white;
+	width:65%;
+	padding:20px;
+	margin:0;
+	position:relative;
+	float:left;
+	top: 20px;
+}
+
+.about-me {
+	color:#4aaaa5;
+	padding-bottom: 15px;
+	border-bottom-style: solid;
+	border-color: #666666;
+	border-width:2px;
+font-weight: bold;
+font-size: 25px; 
+}
+.copyrightbar{
+	background-color: #666666;
+	width:100%;
+	height:50px;
+	float: left;
+	border-top:5px solid #4aaaa5;
+	clear:both;
+}
+
+.copyright {
+	margin:auto;
+	text-align:center;
+	color:white;
+	padding-bottom: 17px 0px 17px 0px;
+}
+
+.profile-img {
+	width:250px;
+	height: 275px;
+	float:left;
+}
+.connect-header {
+	color:#4aaaa5;
+	padding-bottom: 15px;
+	border-bottom-style: solid;
+	border color:#666666;
+	border-width: 2px;
+	font-size:20px;
+	text-align: center;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 15px 15px 15px 15px;
+}
+
+ .image1{ 
+ 	width:33.3%;
+ 	float:left;
+  }
+
+.image2{ 
+ 	width:33.3%;
+ 	float:left;
+  }
+
+.image3{ 
+ 	width:33.3%;
+ 	float:left;
+  }
+  .name1 {
+  	font-size:30px;
+    }
+    .Email {
+    	font-size:30px;
+    }
+
+  .submit {
+  	  background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .message {
+  		font-size:30px;
+  	    width: 200%;
+  }
+ .message textarea{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box
+    width: 90%;
+}
+
+.img1 { 
+	position: relative;
+	float: left;
+	margin-right: 100px;
+}
+ .img2 {
+ 	position: relative;
+ 	float: left;
+ }
+ .img3 {
+ 	position: relative;
+ 	float: left;
+ 	}
+
+ .img4 {
+ 	position: relative;
+ 	float: right;
+ 	margin-right: 100px;
+ }
+.img5 {
+	padding: relative;
+ 	float: left;
+ 	margin-right: 100px;
+}
+ h4 {
+ 	position: absolute;
+ 	top:150px;
+ 	margin-right: 50px;
+ 	background-color: #4aaaa5;
+ 	width:100%;
+ 	height: 40px;
+ 	text-align: center;
+	padding-top: 20px
+	
+ }
+ h5 {
+ 	position: absolute;
+ 	top:150px;
+ 	margin-right: 50px;
+ 	background-color: #4aaaa5;
+ 	width:100%;
+ 	height: 40px;
+ 	text-align: center;
+ 	padding-top: 10px;
+	font-size: 15px;
+ }
+
+ h6 {
+ 	position: absolute;
+ 	top:150px;
+ 	margin-right: 50px;
+ 	background-color: #4aaaa5;
+ 	width:100%;
+ 	height: 40px;
+ 	text-align: center;
+ 	padding-top: 10px;
+	font-size: 20px;
+
+ }
+
+h7 {
+ 	position: absolute;
+ 	top:510px;
+ 	margin-right: 50px;
+ 	background-color: #4aaaa5;
+ 	width:37.8%;
+ 	height: 40px;
+ 	text-align: center;
+ 	padding-top: 10px;
+}
+
+
+.contact-box{
+	background-color: #ffffff;
+	margin: auto;
+	float: left;
+	width: 95%;
+	position:relative;
+	margin-top: -393px;
+	border:3px solid #dddddd;
+	clear:both;
+
+ }
+
+@media screen and (min-width:640px) {
+   
+   .contact-box{
+		width: 95%;
+		margin-top: 0%;
+
+   }
+  }
+  @media screen and (min-width:768px) {
+   .contact-box{
+   	margin-top: 0px;
+   	width: 95%;
+   }
+  }
+  
+  @media screen and (min-width:980px) {
+   
+   .contact-box{
+   	margin-top: -393px;
+   	margin-right:80px;
+   	width: 20%;
+   	float: right;
+   }
+  }
+  
+
+
+
